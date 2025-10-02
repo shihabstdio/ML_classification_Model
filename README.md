@@ -32,5 +32,5 @@ The projects demonstrate how to preprocess data, train classification models, an
 ## How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/classification-model.git
+bash
+https://github.com/shihabstdio/ML_classification_Model/tree/main
